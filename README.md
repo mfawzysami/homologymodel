@@ -11,7 +11,7 @@ It starts with a fasta file containing the amino acids sequence for the query pr
 4. It performs Multiple Sequence alignment for the retrieved homologs.
 5. It performs structural alignment for the downloaded homologs.
 6. It performs Template-based structure homology modelling by assigning secondary structure fragments to different regions of the query sequence.
-7. It performs iterative refinement of the model using geometrical calculations and energy based calculations using CHARMM ("Chemistry at Harvard for Macromolecular Mechanics")
+7. It performs iterative refinement of the model using geometrical calculations and energy based calculations using CHARMM ("Chemistry at Harvard for Macromolecular Mechanics") Force Fields.
 8. It generates dendrogram of the Top similar homologs.
 9. You can specify the closer PDB file to use in order to generate the predicted 3D model for the given query protein.
 
