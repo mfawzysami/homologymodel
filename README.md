@@ -1,6 +1,6 @@
 # Protein Homology Modeling Service
 
-###Introduction
+### Introduction
 This python script will automate all homology modeling tasks for predicting tertiary structure for unknown protein sequence just by knowing the primary structure of the protein (Amino acids Sequence).
 
 It starts with a fasta file containing the amino acids sequence for the query protein. Then, it performs the following steps:
